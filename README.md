@@ -1,5 +1,5 @@
 # Adam Asmaca-Python (Hangman-Python)
-basit bir adam asmaca oyunu words.txt içerisindeki kelimeleri tahmin etmeniz gerekiyor.
+Simple hangman game
 
 # Gereklilikler(Requirements)
 - Python 3.x
