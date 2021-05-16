@@ -1,6 +1,6 @@
-# Adam Asmaca-Python (Hangman-Python)
+#  (Hangman-Python)
 Simple hangman game
 
-# Gereklilikler(Requirements)
+# Requirements
 - Python 3.x
 - pygame
